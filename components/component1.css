@@ -1,0 +1,10 @@
+.component1-container {
+  display: flex;
+  position: relative;
+}
+.component1-text {
+  color: var(--dl-color-gray-500);
+  margin-top: var(--dl-space-space-unit);
+  font-weight: 700;
+  margin-bottom: var(--dl-space-space-unit);
+}
